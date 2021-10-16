@@ -1,3 +1,6 @@
 Rencana Online Shop
+- Mencai Distributo Barang
+    " Pakaian anak
+    " Under Ware
 - Membuat Market Place
-- Lazada, Tokpad dan Shoope
+    " Lazada, Tokpad dan Shoope
