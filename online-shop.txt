@@ -1,0 +1,6 @@
+Rencana Online Shop
+- Daftar/Membuat Market Place
+- Mencari Agen atau Penyedia Barang
+   ^ Kaos Kaki
+   ^ Hijab
+- Register Lazada, Tokpad dan Shoope
