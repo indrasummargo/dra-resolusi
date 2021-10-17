@@ -3,4 +3,4 @@ Dra-Resolusi
 - Membuat Portofolio pribadi terkait project yang telah di buat
 - Membuat ERP Business Prosess.
 - Computasional Thinking
-- Membuat Vlog
+- Membuat Vlog atas aplikasi yang sudah dibangun.
